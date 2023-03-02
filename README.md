@@ -27,4 +27,4 @@ clr() function is also defined to clear the input field.
 
 - Github -[@Vimalraj1221](https://www.github.com/Vimalraj1221)
 - Twitter - [@Vimalraj1221](https://www.twitter.com/Vimalraj1221)
-- Instagram -[@Vimalraj1221](https://www.instagram.com/Vimalraj1221)
+- Instagram -[@Vimalraj1221](https://www.instagram.com/vimalraj_1221/)

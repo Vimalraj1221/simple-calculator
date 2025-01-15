@@ -14,7 +14,8 @@ clr() function is also defined to clear the input field.
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://github.com/Vimalraj1221/simple-calculator)
+- Source URL: [GitHub Repo](https://github.com/Vimalraj1221/simple-calculator)
+- Solution URL: [Netlify Hosted](https://resplendent-fenglisu-912245.netlify.app/)
 
 ### Built with
 
